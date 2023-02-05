@@ -1,2 +1,2 @@
-### Aura
- ##NFT магазин Aura
+#### Aura
+ NFT магазин Aura
