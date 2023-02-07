@@ -106,7 +106,7 @@
     margin-bottom: 20px;
   }
   .hero__buttons{
-    min-width: 400px;
+    min-width: 300px;
   }
   .auction-timer{
     background-image: none;
@@ -196,7 +196,7 @@
   .auction__item:not(:nth-child(2n)) {
     margin-right: var(--gap);
   }
-  .auction__item:nth-last-child(-n+2) {
+  .auction__item:nth-last-child(-n+4) {
     display: none;
   }
   .auction__item {
@@ -246,6 +246,10 @@
   .title{
   font-size: 30px;
   line-height: 36px;
+  }
+  .top-product__title{
+    font-size: 26px;
+    line-height: 32px;
   }
   .footer__top{
     padding-bottom: 0;
